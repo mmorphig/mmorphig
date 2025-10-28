@@ -1,10 +1,10 @@
-## Hi there 👋
+Just a system, but really it's just Kuro that does the programming stuff :3
+Info on said system I guess is here: [https://dash.pluralkit.me/profile/s/mhxzj?tab=system](https://dash.pluralkit.me/profile/s/mhxzj?tab=system)
 
+
+Mostly do C, C++ and Java stuff (also some python scripts), but webdev and C# are not un-familiar. 
+We have been daily-driving Arch Linux for a few (over 4) years now, so bash scripting is also not un-familiar.
 <!--
-**mmorphig/mmorphig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
